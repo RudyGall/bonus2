@@ -1,0 +1,7 @@
+C:\Users\rudye\source\repos\bonus2\bonus2\bin\Debug\bonus2.exe.config
+C:\Users\rudye\source\repos\bonus2\bonus2\bin\Debug\bonus2.exe
+C:\Users\rudye\source\repos\bonus2\bonus2\bin\Debug\bonus2.pdb
+C:\Users\rudye\source\repos\bonus2\bonus2\obj\Debug\bonus2.csprojAssemblyReference.cache
+C:\Users\rudye\source\repos\bonus2\bonus2\obj\Debug\bonus2.csproj.CoreCompileInputs.cache
+C:\Users\rudye\source\repos\bonus2\bonus2\obj\Debug\bonus2.exe
+C:\Users\rudye\source\repos\bonus2\bonus2\obj\Debug\bonus2.pdb
